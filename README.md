@@ -16,6 +16,11 @@ Debugging for this lab was rather easy once Dr Coulston explained how to do it. 
 
 To find the right duty cycle to run the motors at I first found the stall current. Since the current could not exceed 1 A, I measured several other duty cycle currents.
 
+| Duty  |  Current |   |   |   |
+|---|---|---|---|---|
+| 1  |  2 |   |   |   |
+| 1  |  2 |   |   |   |
+| 1  |  2 |   |   |   |
 Duty Cycle(%)      Current(A)
 50                 0.48
 60                 0.58
