@@ -28,6 +28,10 @@ To find the right duty cycle to run the motors at I first found the stall curren
 
 I choose a duty cycle of 60% for forward and reverse movement.
 
+I then wired up the robot to match my prelab and the code worked.
+
+I have two independent signals to each motor and I choose to drive it like a car. I could have it turn like a tank by changing the direction of a motor.
+
 ##Required Functionality
 
 I sent functionality to Dr York via email.
@@ -38,3 +42,5 @@ I since then changed the functionality file to include functions for the movemen
 
 ##Documentation
 I used http://www.tablesgenerator.com/markdown_tables to create the duty cycle table.
+
+Dr Coulston helped me understand how to use the o-scope for debugging and explained to me his diagrams on the whiteboards.
