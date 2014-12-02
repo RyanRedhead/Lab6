@@ -30,7 +30,9 @@ I choose a duty cycle of 60% for forward and reverse movement.
 
 ##Required Functionality
 
+I sent functionality to Dr York via email.
 
+I since then changed the functionality file to include functions for the movements. This would made controlling the speeds and times easier. For the difference in small and large turns i increased the delay cycles command.
 
 #Observations/Conclusions
 
