@@ -40,6 +40,8 @@ I since then changed the functionality file to include functions for the movemen
 
 #Observations/Conclusions
 
+The code in this lab will help with the next two labs for basic robotic movements.
+
 ##Documentation
 I used http://www.tablesgenerator.com/markdown_tables to create the duty cycle table.
 
