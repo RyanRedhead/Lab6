@@ -6,7 +6,7 @@ The purpose of this lab was to use pulse-width modulation from the MSP430 to con
 
 #Hardware Schematic
 
-![Alt Text](https://github.com/RyanRedhead/Lab6/blob/master/Robot.PNG?raw=true)
+![Alt Text](https://github.com/RyanRedhead/Lab6/blob/master/Robot.JPG?raw=true)
 
 #Debugging
 
