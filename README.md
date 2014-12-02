@@ -6,7 +6,7 @@ The purpose of this lab was to use pulse-width modulation from the MSP430 to con
 
 #Hardware Schematic
 
-![Alt Text](https://github.com/RyanRedhead/382Lab5/blob/master/Hardware.PNG?raw=true)
+![Alt Text](https://github.com/RyanRedhead/Lab6/blob/master/Robot.JPG?raw=true)
 
 #Debugging
 
@@ -16,11 +16,13 @@ Debugging for this lab was rather easy once Dr Coulston explained how to do it. 
 
 To find the right duty cycle to run the motors at I first found the stall current. Since the current could not exceed 1 A, I measured several other duty cycle currents.
 
-Duty Cycle(%)      Current(A)
-50                 0.48
-60                 0.58
-70                 0.71
-80                 0.78
+| Duty Cycle (%)  |  Current (A) |
+|---|---|
+| 50  |  0.48 |
+| 60  |  0.58 |
+| 70  |  0.71 |
+| 80  |  0.78 |
+
 
 I choose a duty cycle of 60% for forward and reverse movement.
 
@@ -30,3 +32,5 @@ I choose a duty cycle of 60% for forward and reverse movement.
 
 #Observations/Conclusions
 
+##Documentation
+I used http://www.tablesgenerator.com/markdown_tables to create the duty cycle table.
